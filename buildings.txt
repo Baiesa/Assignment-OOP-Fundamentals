@@ -1,0 +1,4 @@
+Office Building,10
+Apartment Complex,20
+Office Building,10
+Apartment Complex,20
